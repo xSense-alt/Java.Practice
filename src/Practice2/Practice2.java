@@ -3,10 +3,6 @@ package Practice2;
 public class Practice2 {
     public static void main(String[] args) {
 
-        //Я спочатку робив всі завдання окремо, ну кожне завдання в новому класі
-        //А цей клас (Practice020) містить у собі всі 40 завдань
-        //Інші класи task- можете не дивитись
-
         // Завдання 1
         {
             System.out.println("\n========== Завдання 1 ==========");
