@@ -38,11 +38,22 @@ public class Practice7 {
     public static void main(String[] args) {
         setupConsole();
         Runnable[] demos = {
-
+                Practice7::demoBook, Practice7::demoStudent, Practice7::demoBankAccount, Practice7::demoPoint2D,
+                Practice7::demoProduct, Practice7::demoTime, Practice7::demoRectangle, Practice7::demoEmployee,
+                Practice7::demoUser, Practice7::demoFraction, Practice7::demoCar, Practice7::demoSmartBulb,
+                Practice7::demoQueryBuilder, Practice7::demoCoffee, Practice7::demoBox, Practice7::demoFlightTicket,
+                Practice7::demoMathOperations, Practice7::demoDocumentPrinter, Practice7::demoAreaCalculator,
+                Practice7::demoLogger, Practice7::demoArraySearcher, Practice7::demoDateService,
+                Practice7::demoArrayFilter, Practice7::demoUserAccount, Practice7::demoServerConfig,
+                Practice7::demoMathUtils, Practice7::demoCurrency, Practice7::demoFleetCar,
+                Practice7::demoStringUtils, Practice7::demoGameSession, Practice7::demoPhysics,
+                Practice7::demoLineSegment, Practice7::demoClientAccount, Practice7::demoCarWithEngine,
+                Practice7::demoComputer, Practice7::demoHero, Practice7::demoOrder, Practice7::demoVector3D,
+                Practice7::demoLibrary
         };
 
         while (true) {
-            System.out.println("\n===== Practice07: оберіть завдання =====");
+            System.out.println("\n===== Practice7: оберіть завдання =====");
             for (int i = 0; i < NAMES.length; i++) {
                 System.out.printf("%2d. %-26s", i + 1, NAMES[i]);
                 if ((i + 1) % 2 == 0) System.out.println();
