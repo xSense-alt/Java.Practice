@@ -20,7 +20,7 @@ public class Practice8 {
         switch(n) {
             // Завдання 1
             case 1 -> {
-                Student a = new Student("Олена",2,95);
+                Student a = new Student("Сергій",2,95);
                 System.out.println(a);
                 a.setCourse(9);
                 a.setGpa(-5);
