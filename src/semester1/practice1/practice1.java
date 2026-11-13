@@ -1,6 +1,6 @@
-package practice1;
+package semester1.practice1;
 
-public class Practice1 {
+public class practice1 {
     public static void main(String[] args) {
 
         // Завдання 1

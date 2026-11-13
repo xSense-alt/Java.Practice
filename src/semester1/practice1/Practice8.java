@@ -1,4 +1,4 @@
-package Practice8;
+package semester1.practice1;
 import java.util.*;
 public class Practice8 {
     public static void main(String[] args) {

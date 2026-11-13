@@ -1,4 +1,4 @@
-package Practice7;
+package semester1.practice1;
 
 import java.io.FileDescriptor;
 import java.io.FileOutputStream;

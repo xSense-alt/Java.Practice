@@ -2,7 +2,7 @@ package Practice5;
 
 import java.util.Scanner;
 
-public class Homework_Task_1_2 {
+public class Homework_5_Task_1_2 {
     static void main() {
         Scanner scanner = new Scanner(System.in);
         String[] days = {

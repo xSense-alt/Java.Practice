@@ -1,6 +1,6 @@
-package Practice06;
+package semester1.homework;
 
-public class Homework_Task_1 {
+public class Homework_6_Task_1 {
     public static void main(String[] args) {
 
         Fraction fraction = new Fraction();

@@ -1,4 +1,4 @@
-package Practice2;
+package semester1.homework;
 
 public class Homework2 {
     static void main() {

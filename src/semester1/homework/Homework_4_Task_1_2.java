@@ -1,8 +1,8 @@
-package Practice4;
+package semester1.homework;
 
 import java.util.Scanner;
 
-public class Homework4_Task_1_2 {
+public class Homework_4_Task_1_2 {
     static void main() {
         Scanner scanner = new Scanner(System.in);
         //Завдання 1

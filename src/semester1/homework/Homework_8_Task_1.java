@@ -1,6 +1,6 @@
-package Practice8;
+package semester1.homework;
 
-public class Homework_Task_1 {
+public class Homework_8_Task_1 {
     public static void main(String[] args) {
         Circle circle = new Circle(5.0);
         Cylinder cylinder = new Cylinder(5.0, 10.0);

@@ -1,4 +1,4 @@
-package Practice4;
+package semester1.practice1;
 import java.sql.SQLOutput;
 import java.util.Scanner;
 import java.util.function.DoubleToIntFunction;
